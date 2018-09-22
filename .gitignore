@@ -1,3 +1,5 @@
 # Comment
+
 libgit2/ # Ignore folder libgit2/
+
 text.txt # Ignore file text.txt
